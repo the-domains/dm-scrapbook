@@ -1,0 +1,28 @@
+name: dm-scrapbook
+favicon: null
+layout_spectrum: 0.129309807671234
+typography_spectrum: 0.02227561012841761
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8400577609427273
+  lightness: 0.37457696814090014
+  saturation: 0.8021585643291473
+  rhythmicContrast: 0.8743719686754048
+purpose: []
